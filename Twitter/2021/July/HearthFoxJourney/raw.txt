@@ -1,6 +1,8 @@
 DISCLAIMER:
-This is a raw txt file
+This is a raw txt file, if you want only the text and not any of githubs interface, go here https://raw.githubusercontent.com/LakesideMiners/transcription/master/Twitter/2021/July/HearthFoxJourney/raw.txt
+
 A Markdown Formated version of this is linked below
+https://github.com/LakesideMiners/transcription/blob/master/Twitter/2021/July/HearthFoxJourney/markdown.md
 
 The following is a transciption of the text in a short comic by @TheHearthFox on Twitter. The text is copyrighted to them.
 The orignal post is linked below.
@@ -80,7 +82,7 @@ START OF PANEL 8
 I started watching anime in high school.
 It introduced me to the idea of a fandom.  
 I connected with people.
-We were all werid together!
+We were all weird together!
 Eventually I found forums and met more people.
 I couldn't make friends with my peers but I could meet people with similar interests.
 The best part was my Avatar!
@@ -158,7 +160,7 @@ Nobody here though they were an animal in the wrong body.
 There were transgender people but I didn't feel like a women.
 I don't know what I felt like... all I had up to that point was "I'm a fox".
 I kept all that buried.
-I was still a fox but this was just a charater now.
+I was still a fox but this was just a character now.
 A costume I could put on and take off.
 But that left the question: "Who am I when I'm not in character?"
 
